@@ -1,6 +1,6 @@
 # 🌊 Arman Jindal
 
-Motivated by digital craft and the vision that technology can connect us more deeply to people, places, the past and the planet, I'm a software engineer by passion and profession. Most at home on the server side, working on data pipelines and standing up infrastructure, that said, I am a full-stack/multistack programmer who focuses on problems rather than tools. Now I am leveling up my front-end skills as I create a real-time map of events in NYC. I am tenacious, coachable, and relentlessly curious, and seeking for a full-time role on a team of ambitious and passionate builders. 
+Driven by craft and the belief that technology can connect us more deeply to each other, our past, and our planet, I'm a software engineer by passion and profession. Most at home on the server side — working on data pipelines and standing up infrastructure — I am a full-stack/multistack programmer focused on problems rather than tools. I am leveling up my front-end/product skills by creating a real-time map of events in NYC. I am tenacious, coachable, and relentlessly curious, and I am seeking a full-time role on a team of ambitious builders.
 
 Portfolio:
 - Real Time Event Map (NYC): Ongoing [Blue-Sync](https://github.com/armanjindal/blue-sync)
@@ -15,4 +15,4 @@ Portfolio:
   - [Migrated the CLI that creates Kubernetes Infrastructure to Terraform from Go](https://github.com/airyhq/airy/issues/3397)
   - [Improved critical docs around Airy Componeneand misc. sources fixes](https://github.com/airyhq/airy/issues?q=is%3Aclosed+author%3Aarmanjindal+label%3Adocs)
 
----
+
