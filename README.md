@@ -10,8 +10,8 @@ Driven by craft and the belief that technology can connect us more deeply to eac
    - Improving on-prem server deployment and configuration 🛠️ Ruby, Chef, Kamal, Docker
    - Creating & deploying a doc system 🛠️ BuildKite CI/CD, Nagios (IT Monitoring), Jekyll, Git
 - [Airy.co](https://airy.co/): Software Engineering Internship at Real-Time-Data for AI start up
-  - [Engineered a connector from Kafka to Rasa for Converational AI with data-streaming](https://github.com/airyhq/airy/pull/3611) 🛠️ Java, Spring Boot, Kafka Streams API 
-  - [Migrated the Infrastructure CLI to Terraform from Go](https://github.com/airyhq/airy/issues/3397) 🛠️ Kubernetes, Terraform, Go, AWS
+  - [Engineered a connector from Kafka to Rasa for Converational AI with data-streaming](https://github.com/airyhq/airy/pull/3611/files) 🛠️ Java, Spring Boot, Kafka Streams API 
+  - [Migrated the Infrastructure CLI to Terraform from Go]([https://github.com/airyhq/airy/issues/3397](https://github.com/airyhq/airy/pull/3404/files) 🛠️ Kubernetes, Terraform, Go, AWS
   - [Improved critical docs around Airy Componeneand misc. sources fixes](https://github.com/airyhq/airy/issues?q=is%3Aclosed+author%3Aarmanjindal+label%3Adocs) 🛠️ Docusaurus, Git
 - Ecce Education: Conversational AI Maths Lessons available via WhatsApp
   - [Prototype lesson on fractions](https://github.com/armanjindal/ecce-project_education) built during the pandemic with three teachers from Teach For India 🛠️ Python, Rasa, Github Actions, Docker
