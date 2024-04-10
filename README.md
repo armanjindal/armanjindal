@@ -4,11 +4,11 @@ Driven by craft and the belief that technology can connect us more deeply to eac
 
 - Real Time Event Map (NYC): Ongoing [Blue-Sync](https://github.com/armanjindal/blue-sync)
   - Created a Beautiful Map UI 🛠️ Next/React, react-map-gl/mapbox, Typescript
-  - Crowd Sourcing Event Sources Data Pipeline (not yet open source) 🛠️ Diffbot Knowledge Graph/ Web Scrapping, Rails (Active Record), Postgres
-  - Semantic & Geo-temporal Search  🛠️ OpenAI (Vector Embeddings), PostGIS, Supabase 
+  - Crowd Sourcing Event Sources Data Pipeline (not yet open source) 🛠️ Diffbot Knowledge Graph, Scrapy/Selenium Web Scrapping, Rails (Active Record), Postgres
+  - Semantic & Geo-temporal Search  🛠️ OpenAI (Vector Embeddings), PostGIS, MonogoDB 
 - Basecamp (37signals) DevOps Engineering Internship 
    - Improving on-prem server deployment and configuration 🛠️ Ruby, Chef, Kamal, Docker
-   - Creating & deploying a doc system 🛠️ BuildKite CI/CD, Nagios (IT Monitoring), Jekyll, Git
+   - Creating & deploying a doc system 🛠️ BuildKite CI/CD, Nagios (Monitoring), Jekyll, Git
 - [Airy.co](https://airy.co/): Software Engineering Internship at Real-Time-Data for AI start up
   - Engineered a connector from Kafka to Rasa for Converational AI with data-streaming - https://github.com/airyhq/airy/pull/3611/files 🛠️ Java, Spring Boot, Kafka Streams API 
   - Migrated the Kubernetes Cluster Creation from Go to Terraform - https://github.com/airyhq/airy/pull/3404/files - 🛠️ Kubernetes, Terraform, Go, AWS
