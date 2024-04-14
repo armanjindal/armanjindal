@@ -1,6 +1,6 @@
 # 🌊 Arman Jindal
 
-Driven by craft and the belief that technology can connect us more deeply to each other, our past, and our planet, I'm a software engineer by passion and profession. Most at home on the server side — working on data pipelines and standing up infrastructure — I love digging deep into problems. Currently, I am leveling up my front-end/product skills and exploring the world of mapping/GIS data by creating a real-time map of events in NYC. 
+Driven by craft and the belief that technology can connect us more deeply to each other, our past, and our planet, I'm a software engineer by passion and profession. Most at home on the server side — working on data pipelines and standing up infrastructure — I love digging deep into problems. Currently, I am leveling up my front-end/product skills and exploring the open world of digital mapping by creating a real-time map of events in NYC for this summer. 
 
 - Real Time Event Map (NYC): Ongoing [Blue-Sync](https://github.com/armanjindal/blue-sync)
   - Created a Beautiful Map UI 🛠️ Next/React, react-map-gl/mapbox, Typescript
