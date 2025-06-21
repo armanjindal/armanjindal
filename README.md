@@ -3,8 +3,9 @@
 I'm driven by craft and deep desire to hone skills. Most at home on the server side — working on data pipelines and standing up infrastructure — I love digging deep into problems. Currently, I am leveling up my front-end/product skills and exploring the open world of digital mapping by creating a real-time map of events in NYC for this summer. 
 
 - FiveOneFour - Forward Deployed Engineer
-  - Drive product direction and the first $1,000,000 in ARR by making F45 and our other early customers succesful with our OS dev framework built around the "analytic" stack
-  - Develop and refine MCPs that help developers do data engineering Jobs To Be Done
+  - Drive product and the first $1,000,000 in ARR by making F45 and our other early customers succesful with our OS dev framework, Moose, built around the "analytic" stack (Clickhouse/Redpanda/Temporal/Redis).
+    - Moose does for data intensive application what Rails/Django did for Web (CRUD) applications.
+  - Develop and refine MCPs that help developers do data engineering Jobs To Be Done — from analytics to data wrangling. 
 - Basecamp (37signals) DevOps Engineering Internship 
    - Improving on-prem server deployment and configuration 🛠️ Ruby, Chef, Kamal, Docker
    - Creating & deploying a doc system 🛠️ BuildKite CI/CD, Nagios (Monitoring), Jekyll, Git
