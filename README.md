@@ -2,10 +2,9 @@
 
 I'm driven by craft and deep desire to hone skills. Most at home on the server side — working on data pipelines and standing up infrastructure — I love digging deep into problems. Currently, I am leveling up my front-end/product skills and exploring the open world of digital mapping by creating a real-time map of events in NYC for this summer. 
 
-- Real Time Event Map (NYC): Ongoing [Blue-Sync](https://github.com/armanjindal/blue-sync)
-  - Created a Beautiful Map UI 🛠️ Next/React, react-map-gl/mapbox, Typescript
-  - Crowd Sourcing Event Sources Data Pipeline (not yet open source) 🛠️ Diffbot Knowledge Graph, Scrapy/Selenium Web Scrapping, Rails (Active Record), Postgres
-  - Semantic & Geo-temporal Search  🛠️ OpenAI (Vector Embeddings), PostGIS, MonogoDB 
+- FiveOneFour - Forward Deployed Engineer
+  - Drive product direction and the first $1,000,000 in ARR by making F45 and our other early customers succesful with our OS dev framework built around the "analytic" stack
+  - Develop and refine MCPs that help developers do data engineering Jobs To Be Done
 - Basecamp (37signals) DevOps Engineering Internship 
    - Improving on-prem server deployment and configuration 🛠️ Ruby, Chef, Kamal, Docker
    - Creating & deploying a doc system 🛠️ BuildKite CI/CD, Nagios (Monitoring), Jekyll, Git
