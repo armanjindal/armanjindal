@@ -1,6 +1,6 @@
 # 🌊 Arman Jindal
 
-I'm driven by craft and deep desire to hone skills. Most at home on the server side — working on data pipelines and standing up infrastructure — I love digging deep into problems. Currently, I am leveling up my front-end/product skills and exploring the open world of digital mapping by creating a real-time map of events in NYC for this summer. 
+Read more at [armanjindal.com](armanjindal.com)
 
 - [FiveOneFour](https://www.fiveonefour.com/) - Forward Deployed Engineer
   - Drive product and the first $1,000,000 in ARR by making F45 and our other early customers succesful with our OS dev framework, Moose, built around the "analytic" stack (Clickhouse/Redpanda/Temporal/Redis).
