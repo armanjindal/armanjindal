@@ -2,6 +2,7 @@
 
 Read more at [armanjindal.com](armanjindal.com)
 
+- Building [AI Agents](https://github.com/armanjindal/ai-for-my-life) to make my life more focused and effective using the wonderful tools built by the folks at [Pydantic](https://pydantic.dev/) x [LightPhone](https://www.thelightphone.com/)
 - [FiveOneFour](https://www.fiveonefour.com/) - Forward Deployed Engineer
   - Drive product and the first $1,000,000 in ARR by making F45 and our other early customers succesful with our OS dev framework, Moose, built around the "analytic" stack (Clickhouse/Redpanda/Temporal/Redis).
     - Moose does for data intensive application what Rails/Django did for Web (CRUD) applications.
